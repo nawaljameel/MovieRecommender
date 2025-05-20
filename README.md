@@ -9,3 +9,7 @@ A smart recommendation system that suggests movies using content-based filtering
   - Run `main.ipynb` and the necessary pickle files will be generated in `recommendation_data/`.
 - **App Execution**: `app.py` utilizes the generated files and the TMDB API to run the Streamlit app.
   - **Note:** Users must provide their own TMDB API key.
+
+![Description](images/example1.png)
+![Description](images/example2.png)
+
